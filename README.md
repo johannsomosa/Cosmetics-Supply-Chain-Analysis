@@ -12,7 +12,7 @@ The objective for the Supply Chain Analysis project is to gain valuable insight 
 - Fastest Routes
 - Defect Rates
 
-🛠 Tools Used
+# 🛠 Tools Used
 DB Browser for SQLite
 
 Data
